@@ -1,4 +1,3 @@
-![MasterHead](https://images.squarespace-cdn.com/content/v1/580fa9f7e58c62cb7501937b/1496358009519-3OOP60SU1L9CWOXN544R/bedroom.gif?format=2500w)
 
 <h1 align="center">Hi 👋, I'm Josh Pattison</h1>
 <h3 align="center">A budding developer studying at the SchoolOfCode bootcamp.</h3>
