@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pattisoj&label=Profile%20views&color=0e75b6&style=flat" alt="pattisoj" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_joshpattison" target="blank"><img src="https://img.shields.io/twitter/follow/_joshpattison?logo=twitter&style=for-the-badge" alt="_joshpattison" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_pattisoj" target="blank"><img src="https://img.shields.io/twitter/follow/_pattisoj?logo=twitter&style=for-the-badge" alt="_joshpattison" /></a> </p>
 
 - 🔭 I’m currently working on [my SchoolOfCode tribute page](https://github.com/pattisoj/Stage2Step7TributePage)
 
