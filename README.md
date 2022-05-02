@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_pattisoj" target="blank"><img src="https://img.shields.io/twitter/follow/_pattisoj?logo=twitter&style=for-the-badge" alt="_joshpattison" /></a> </p>
 
-- 🔭 I’m currently working on my [own Rock-Paper-Scissors game](https://github.com/pattisoj/rockPaperScissorsLizardSpock)
+- 🔭 I’m currently working on my [Rock-Paper-Scissors game](https://github.com/pattisoj/rockPaperScissorsLizardSpock)
 
 - 🌱 I’m currently learning **the fundamentals of JavaScript.**
 
