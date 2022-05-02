@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **the fundamentals of JavaScript.**
 
-- 📝 I am writing about my journey on <a href="joshpattison.com" target="_blank"> my blog! </a>
+- 📝 I am writing about my journey on [my blog!](httpe://joshpattison.com)
 
 - 💬 Ask me about **the SchoolOfCode**
 
