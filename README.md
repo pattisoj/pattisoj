@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/_pattisoj" target="blank"><img src="https://img.shields.io/twitter/follow/_pattisoj?logo=twitter&style=for-the-badge" alt="_joshpattison" /></a> </p>
 
-- 🔭 I’m currently working on my [Rock-Paper-Scissors game](https://github.com/pattisoj/rockPaperScissorsLizardSpock)
+- 🔭 I’m currently working on my [Pokédex Project](https://github.com/pattisoj/pokedexProject)
 
-- 🌱 I’m currently learning **the fundamentals of JavaScript.**
+- 🌱 I am currently learning **JavaScript.**
 
-- 📝 I am writing about my journey on [my blog!](httpe://joshpattison.com)
+- 📝 Follow along with my journey on [my blog!](https://joshpattison.com)
 
 - 💬 Ask me about **the SchoolOfCode**
 
