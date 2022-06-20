@@ -25,5 +25,5 @@
 <a href="https://linkedin.com/in/josh-pattison" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josh-pattison" height="30" width="40" /></a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=pattisoj&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=pattisoj&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pattisoj&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
