@@ -16,7 +16,7 @@ It is a 16-week intensive bootcamp focused on full-stack development.
 I have enjoyed working with various people from all kinds of backgrounds to solve various problems. I also enjoy creating **clean** and **testable** code to solve these problems. 
 <br />
 <br />
-I have a passion for **both** front and back end and would love to continue experience both in my career!
+I have a passion for **both** front and back end and would love to continue exploring both in my career!
 <br />
 
 <br/>
