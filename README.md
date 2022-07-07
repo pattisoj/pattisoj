@@ -13,7 +13,7 @@ Before moving into code I earned a **BSc in Psychology**.
 I started my coding journey by joining the **School of Code**. 
 It is a 16-week intensive bootcamp focused on full-stack development.
 <br />
-I have enjoyed working with various people from all kinds of backgrounds to solve various problems. I also enjoy creating **clean** and **testible** code to solve these problems. 
+I have enjoyed working with various people from all kinds of backgrounds to solve various problems. I also enjoy creating **clean** and **testable** code to solve these problems. 
 <br />
 <br />
 I have a passion for **both** front and back end and would love to continue experience both in my career!
