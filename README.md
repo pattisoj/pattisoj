@@ -25,11 +25,10 @@
 <a href="https://linkedin.com/in/josh-pattison" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josh-pattison" height="30" width="40" /></a>
 </p>
 
-<details>
+<details align="center">
 <summary>Click for GitHub Stats</summary>
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pattisoj&theme=algolia&hide_border=false&include_all_commits=true&count_private=true">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattisoj&theme=algolia&hide_border=false&include_all_commits=true&count_private=false"
-</p>
+<br />
+    <a href="https://github.com/pattisoj/github-readme-stats"><img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pattisoj&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" height="192px" /> </a>
+    <a href="https://github.com/pattisoj/github-readme-stats"><img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattisoj&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" height="192px" /> </a>
+ <br />
 </details>
