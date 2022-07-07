@@ -1,8 +1,8 @@
 
-<h1 align="center">Welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">✨ Welcome to my profile ✨</h1>
 
 <p align="center">
-<a href="https://github.com/pattisoj"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=School+of+Code+Bootcamper;Psychology+Graduate;Nice+to+meet+you!" /> </a> </p>
+<a href="https://github.com/pattisoj"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=School+of+Code+Bootcamper;Psychology+Graduate;Nice+to+meet+you..." /> </a> </p>
 
 <img align="right" src="https://64.media.tumblr.com/4c1305b98830868fc843e080f8de986c/b762112e0ae6dd9b-f3/s640x960/778ce4b9eb986da34fff5cb393a25463a1db413b.gif" width="450">
 
