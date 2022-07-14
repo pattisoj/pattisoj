@@ -19,7 +19,7 @@ I have enjoyed working with people from all kinds of backgrounds in various team
 I have a passion for **both** front and back end and would love to continue exploring both in my career!
 <br />
 
-<br/>
+<p align="center">Currently I am looking for junior software development roles, contact me below:</p>
 
 <div align="center">
 
