@@ -1,5 +1,5 @@
 
-<h1 align="center">✨ Welcome to my profile ✨</h1>
+<h1 align="center"><a href="https://emoji.gg/emoji/9247-bluebutterflywingleft"><img src="https://cdn3.emoji.gg/emojis/9247-bluebutterflywingleft.png" width="32px" height="32px" alt="BlueButterflyWingLeft"></a> Welcome to my profile <a href="https://emoji.gg/emoji/9247-bluebutterflywingright"><img src="https://cdn3.emoji.gg/emojis/9247-bluebutterflywingright.png" width="32px" height="32px" alt="BlueButterflyWingRight"></a></h1>
 
 <p align="center">
 <a href="https://github.com/pattisoj"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=School+of+Code+Bootcamper;Psychology+Graduate;Nice+to+meet+you..." /> </a> </p>
