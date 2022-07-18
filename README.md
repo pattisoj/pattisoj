@@ -5,6 +5,7 @@
 <a href="https://github.com/pattisoj"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=School+of+Code+Bootcamper;Psychology+Graduate;Nice+to+meet+you..." /> </a> </p>
 
 <img align="right" src="https://64.media.tumblr.com/175ddefc11ff0df8a6987e88196741a1/tumblr_pwt5gtFujD1y5e2kbo1_540.gifv" width="450">
+<br />
 
 Hello, my name is **Josh Pattison**. 
 <br />
@@ -15,8 +16,8 @@ It is a 16-week intensive bootcamp focused on full-stack development that mimics
 <br />
 I have enjoyed working with people from all kinds of backgrounds in various teams to solve a wide range of problems. I also enjoy creating **clean** and **testable** code to solve these problems. 
 <br />
-<br />
-I have a passion for **both** front and back end and would love to continue exploring both in my career!
+
+<p align="center">I have a passion for <b>both</b> front and back end and would love to continue exploring both in my career!</p>
 <br />
 
 <p align="center">Currently I am looking for junior software development roles, contact me below:</p>
