@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://github.com/pattisoj"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=School+of+Code+Bootcamper;Psychology+Graduate;Nice+to+meet+you..." /> </a> </p>
 
-<img align="right" src="https://64.media.tumblr.com/175ddefc11ff0df8a6987e88196741a1/tumblr_pwt5gtFujD1y5e2kbo1_540.gifv" width="450">
+<img align="right" src="https://64.media.tumblr.com/175ddefc11ff0df8a6987e88196741a1/tumblr_pwt5gtFujD1y5e2kbo1_540.gifv" width="425">
 
 Hello, my name is **Josh Pattison**. 
 <br />
