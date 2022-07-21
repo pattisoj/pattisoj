@@ -26,7 +26,7 @@ I have enjoyed working with people from all kinds of backgrounds in various team
 
 <a href="">[![LinkedIn](https://img.shields.io/badge/-josh--pattison-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josh-pattison/)](https://www.linkedin.com/in/josh-pattison/)</a>
 <a href="">[![Twitter](https://img.shields.io/badge/-@__pattisoj-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/_pattisoj)](https://twitter.com/_pattisoj)</a>
-<a href="">[![Hashnode](https://img.shields.io/badge/-@pattisoj-blue?style=flat-square&logo=Hashnode&logoColor=white&link=https://joshpattison.com)](https://joshpattison.com)</a>
+<a href="">[![Hashnode](https://img.shields.io/badge/-@pattisoj-blue?style=flat-square&logo=Hashnode&logoColor=white&link=https://joshpattison.com)](https://pattisoj.hashnode.dev/)</a>
 <a href="">[![e-mail](https://img.shields.io/badge/-joshpattison23@icloud.com-blue?style=flat-square&logo=gmail&logoColor=white&link=mailto:joshpattison23@icloud.com)](mailto:joshpattison23@icloud.com)</a>
 
 </div>
