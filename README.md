@@ -6,7 +6,7 @@
 
 <img align="right" src="https://64.media.tumblr.com/175ddefc11ff0df8a6987e88196741a1/tumblr_pwt5gtFujD1y5e2kbo1_540.gifv" width="450">
 
-Hello, my name is <a href="https://joshpattison.com" target="_blank"> **Josh Pattison**</a>. 
+Hello, my name is <a href="https://joshpattison.com"> **Josh Pattison**</a>. 
 <br />
 Before moving into code I earned a **BSc in Psychology**!  
 <br />
