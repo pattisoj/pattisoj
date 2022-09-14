@@ -19,7 +19,7 @@ I have enjoyed working with people from all kinds of backgrounds in various team
 
 <p align="center">I have a passion for <b>both</b> front and back end and would love to continue exploring both in my career!</p>
 <br />
-<p align="center">After graduating from the School of Code I am eager to continue learning. Therefore, I am working towards my first freeCodeCamp certification: <b>Scientific Computing with Python</b>.</p>
+<p align="center">After graduating from the School of Code I am eager to continue learning. Therefore, I have completed my first freeCodeCamp certification: <b>Scientific Computing with Python</b>, and I am now learning more about <b>Cloud Computing</b>.</p>
 <br />
 <p align="center">Currently I am looking for junior software development roles, contact me below:</p>
 
