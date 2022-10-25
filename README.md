@@ -35,7 +35,7 @@ I have enjoyed working with people from all kinds of backgrounds in various team
 <details align="center">
 <summary>Click for GitHub Stats</summary>
 <br />
-    <a href="https://github.com/pattisoj/github-readme-stats"><img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pattisoj&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" height="192px" /> </a>
+    <a href="https://github.com/pattisoj/github-readme-stats"><img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pattisoj&theme=algolia&show_icons=true&icon_color=FFFFFF&count_private=true&include_all_commits=true" height="192px" /> </a>
     <a href="https://github.com/pattisoj/github-readme-stats"><img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattisoj&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" height="192px" /> </a>
  <br />
 </details>
