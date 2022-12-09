@@ -19,15 +19,14 @@ I have enjoyed working with people from all kinds of backgrounds in various team
 
 <p align="center">I have a passion for <b>both</b> front and back end and would love to continue exploring both in my career!</p>
 <br />
-<p align="center">After graduating from the School of Code I am eager to continue learning. Therefore, I have completed my first freeCodeCamp certification: <b>Scientific Computing with Python</b>, my first MongoDB certification: <b>M001: MongoDB Basics</b>, I am building my own <a href="https://github.com/pattisoj/my-hero-academia-api"><b>API</b></a>.</p> and I am learning more about AI.
+<p align="center">After graduating from the School of Code I am eager to continue learning. Therefore, I have completed my first freeCodeCamp certification: <b>Scientific Computing with Python</b>, my first MongoDB certification: <b>M001: MongoDB Basics</b>, I am building my own <a href="https://github.com/pattisoj/my-hero-academia-api"><b>API</b></a> and I am learning more about AI.</p>
 <br />
-<p align="center">Currently I am looking for junior software development roles, contact me below:</p>
+<p align="center">If you would like to get in touch please contact me below:</p>
 
 <div align="center">
 
 <a href="">[![LinkedIn](https://img.shields.io/badge/-josh--pattison-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josh-pattison/)](https://www.linkedin.com/in/josh-pattison/)</a>
 <a href="">[![Twitter](https://img.shields.io/badge/-@__pattisoj-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/_pattisoj)](https://twitter.com/_pattisoj)</a>
-<a href="">[![Hashnode](https://img.shields.io/badge/-@pattisoj-blue?style=flat-square&logo=Hashnode&logoColor=white&link=https://joshpattison.com)](https://pattisoj.hashnode.dev/)</a>
 <a href="">[![e-mail](https://img.shields.io/badge/-joshpattison23@icloud.com-blue?style=flat-square&logo=gmail&logoColor=white&link=mailto:joshpattison23@icloud.com)](mailto:joshpattison23@icloud.com)</a>
 
 </div>
