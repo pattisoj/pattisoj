@@ -19,7 +19,7 @@ I have enjoyed working with people from all kinds of backgrounds in various team
 
 <p align="center">I have a passion for <b>both</b> front and back end and would love to continue exploring both in my career!</p>
 <br />
-<p align="center">After graduating from the School of Code I am eager to continue learning. Therefore, I have completed my first freeCodeCamp certification: <b>Scientific Computing with Python</b>, my first MongoDB certification: <b>M001: MongoDB Basics</b> and I am building my own <a href="https://github.com/pattisoj/my-hero-academia-api"><b>API</b></a>.</p>
+<p align="center">After graduating from the School of Code I am eager to continue learning. Therefore, I have completed my first freeCodeCamp certification: <b>Scientific Computing with Python</b>, my first MongoDB certification: <b>M001: MongoDB Basics</b>, I am building my own <a href="https://github.com/pattisoj/my-hero-academia-api"><b>API</b></a>.</p> and I am learning more about AI.
 <br />
 <p align="center">Currently I am looking for junior software development roles, contact me below:</p>
 
