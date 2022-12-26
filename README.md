@@ -16,7 +16,7 @@ It is a 16-week intensive bootcamp focused on full-stack development that mimics
 I have enjoyed working with people from all kinds of backgrounds in various teams to solve a wide range of problems. I also enjoy creating **clean** and **testable** code to solve these problems. 
 <br />
 <br />
-
+<br />
 <p align="center">I have a passion for <b>both</b> front and back end and would love to continue exploring both in my career!</p>
 <br />
 <p align="center">After graduating from the School of Code I am eager to continue learning. Therefore, I have completed my first freeCodeCamp certification: <b>Scientific Computing with Python</b>, my first MongoDB certification: <b>M001: MongoDB Basics</b>, I am building my own <a href="https://github.com/pattisoj/my-hero-academia-api"><b>API</b></a> and I am learning more about AI.</p>
