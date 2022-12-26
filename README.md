@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://github.com/pattisoj"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=Software+Engineer;School+of+Code+Graduate;Psychology+Graduate;Nice+to+meet+you!" /> </a> </p>
 
-<img align="right" src="https://i.pinimg.com/originals/9f/99/59/9f9959c3e16d740c62fb1fe250ed67c3.gif" width="500">
+<img align="right" src="https://i.pinimg.com/originals/9f/99/59/9f9959c3e16d740c62fb1fe250ed67c3.gif" width="475">
 
 Hello, my name is <a href="https://joshpattison.com"> **Josh Pattison**</a>. 
 <br />
