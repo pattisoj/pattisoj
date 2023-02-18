@@ -1,6 +1,6 @@
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
  
-Right now I'm focused on maintaining my repositiories and learning about AI.
+Right now I'm focused on maintaining my repositiories and preparing for my new job!
 
 <p>Contact me:</p>
 
